@@ -1,6 +1,6 @@
 module.exports = {
   title: `DaBee`,
-  description: `Dabee Blog`,
+  description: `Dabee`,
   author: `[DABIN SEO]`,
   introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
