@@ -1,6 +1,6 @@
 ---
 title: 'about'
-date: 2019-1-27 16:21:13
+date: 2022-3-8 00:00:00
 lang: 'en'
 ---
 
@@ -8,6 +8,14 @@ lang: 'en'
 
 <div align="center">
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
+<p style="font-weight:bold; font-size:1.3em">#python</p>
+
+<br>
+
+:baby_chick: Minimal Life
+
+:green_apple: Zero waste
+
+🎃 Trying to be better
 
 </div>

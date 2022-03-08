@@ -1,12 +1,12 @@
 module.exports = {
-  title: `DaBee`,
-  description: `Dabee`,
+  title: `Dabi_BLOG`,
+  description: `Dabi_devlog`,
   author: `[DABIN SEO]`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
-  siteUrl: `https://dabinnny.github.io/`, // Your blog site url
+  introduction: `시시콜콜 블로그`,
+  siteUrl: `https://Dabinnny.github.io/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `https://github.com/Dabinnny`, // Your GitHub account
+    github: `Dabinnny`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
@@ -22,7 +22,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: '',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
