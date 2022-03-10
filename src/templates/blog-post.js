@@ -32,7 +32,7 @@ export default ({ data, pageContext, location }) => {
 
   return (
     <Layout location={location} title={title}>
-      <Head title={postTitle} description={post.excerpt} />
+      <Head title={postTitle} description={post.excerpt} thumbnail={thumbnailSrc} />
       <PostTitle title={postTitle} />
       <PostDate date={date} />
       <PostContainer html={post.html} />

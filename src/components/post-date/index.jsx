@@ -6,7 +6,7 @@ export const PostDate = ({ date, category }) => {
   return (
     <p className="post-date">
       <span>{category} | </span>
-      <span style={{ color: '#ed4264' }}>{date}</span>
+      <span className="thumbnail-date" style={{ color: '#ed4264' }}>{date}</span>
     </p>
   )
 }

@@ -4,14 +4,14 @@ import Image from 'gatsby-image'
 
 import './index.scss'
 
-export const Bio = forwardRef((props, ref) => {
-  return <StaticQuery
+export const Bio = () => (
+  <StaticQuery
     query={bioQuery}
     render={data => {
       const { author, social, introduction } = data.site.siteMetadata
 
       return (
-        <div ref={ref} className="bio">
+        <div className="bio">
           <div className="author">
             <div className="author-description">
               <Image
@@ -23,7 +23,7 @@ export const Bio = forwardRef((props, ref) => {
                 }}
               />
               <div className="author-name">
-                <span className="author-name-prefix">Written by</span>
+                <span className="author-name-prefix">Hello, I'm</span>
                 <Link to={'/about'} className="author-name-content">
                   <span>@{author}</span>
                 </Link>
@@ -35,7 +35,9 @@ export const Bio = forwardRef((props, ref) => {
                     </a>
                   )}
                   {social.github && (
-                    <a href={`https://github.com/${social.github}`}>GitHub</a>
+                    <a href={`https://github.com/${social.github}`} style={{ color: '#335c91' }}>
+                      🍓 Github
+                    </a>
                   )}
                   {social.medium && (
                     <a href={`https://medium.com/${social.medium}`}>Medium</a>
@@ -63,7 +65,7 @@ export const Bio = forwardRef((props, ref) => {
       )
     }}
   />
-})
+)
 
 const bioQuery = graphql`
   query BioQuery {
