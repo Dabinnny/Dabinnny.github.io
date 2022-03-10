@@ -1,8 +1,8 @@
 module.exports = {
-  title: `Dabi_BLOG`,
-  description: `Dabi_devlog`,
+  title: `DABI_devlog`,
+  description: `DABI_devlog`,
   author: `[DABIN SEO]`,
-  introduction: `시시콜콜 블로그`,
+  introduction: `시시콜콜 공부일기`,
   siteUrl: `https://Dabinnny.github.io/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
