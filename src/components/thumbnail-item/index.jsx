@@ -13,7 +13,7 @@ export const ThumbnailItem = ({ node }) => (
         </h3>
         <p>
           <time className="thumbnail-date">
-            <span style={{ color: '#ed4264', fontSize: '16px', fontWeight: 'bold' }}>
+            <span style={{ color: '#ed4264', fontSize: '16px' }}>
               {node.frontmatter.category} | </span>
             {node.frontmatter.date}
           </time>
