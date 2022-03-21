@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DABI_devlog]]></title><description><![CDATA[DABI_devlog]]></description><link>https://Dabinnny.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 20 Mar 2022 12:08:20 GMT</lastBuildDate><item><title><![CDATA[Mac M1 Miniforge,Tensorflow 설치하기]]></title><description><![CDATA[🥲 M1.. 네가 뭔데 날 울려.. 이 카테고리는 n시간의 삽질을 반복하지 않기 위한 각성 포스트를 모아놓습니다. 로컬에서 모델을 처음 돌려보면서 버전충돌과 환경구축 에러로 수명이…]]></description><link>https://Dabinnny.github.io/TroubleShooting/miniforge/</link><guid isPermaLink="false">https://Dabinnny.github.io/TroubleShooting/miniforge/</guid><pubDate>Sun, 13 Mar 2022 18:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;🥲-m1-네가-뭔데-날-울려&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%F0%9F%A5%B2-m1-%EB%84%A4%EA%B0%80-%EB%AD%94%EB%8D%B0-%EB%82%A0-%EC%9A%B8%EB%A0%A4&quot; aria-label=&quot;🥲 m1 네가 뭔데 날 울려 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🥲 M1.. 네가 뭔데 날 울려..&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DABI_devlog]]></title><description><![CDATA[DABI_devlog]]></description><link>https://Dabinnny.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Mar 2022 03:22:57 GMT</lastBuildDate><item><title><![CDATA[Mac M1 Konlpy 설치하기 ]]></title><description><![CDATA[🥲 M1.. 네가 뭔데 날 울려.. 이 카테고리는 n시간의 삽질을 반복하지 않기 위한 각성 포스트를 모아놓습니다. 이번 자연어처리 프로젝트에서는 영문이 아닌 한글을 처리해야 하기 때문에 ‘Konply…]]></description><link>https://Dabinnny.github.io/TroubleShooting/jave/</link><guid isPermaLink="false">https://Dabinnny.github.io/TroubleShooting/jave/</guid><pubDate>Sun, 20 Mar 2022 18:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;🥲-m1-네가-뭔데-날-울려&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%F0%9F%A5%B2-m1-%EB%84%A4%EA%B0%80-%EB%AD%94%EB%8D%B0-%EB%82%A0-%EC%9A%B8%EB%A0%A4&quot; aria-label=&quot;🥲 m1 네가 뭔데 날 울려 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🥲 M1.. 네가 뭔데 날 울려..&lt;/h1&gt;
+&lt;br/&gt;
+&lt;blockquote&gt;
+&lt;p&gt;이 카테고리는 n시간의 삽질을 반복하지 않기 위한 각성 포스트를 모아놓습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;이번 자연어처리 프로젝트에서는 영문이 아닌 한글을 처리해야 하기 때문에 ‘Konply’를 사용해야 했다.&lt;br&gt;
+설치는 잘 되었지만 아니나 다를까 오류가 난다.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;’ No JVM shared library file (libjli.dylib) found ’&lt;/strong&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;Konlpy를 사용하기 위해서는 Java package를 불러오는데 M1 silicon cpu와 호환되는 jdk를 사용하지 않아서이다.&lt;br&gt;
+Jave 설치도 안된 처음 환경구축 상태라 가정하고 진행해보자.  &lt;/p&gt;
+&lt;h2 id=&quot;1-mac-os-x64-용-java-설치하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-mac-os-x64-%EC%9A%A9-java-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0&quot; aria-label=&quot;1 mac os x64 용 java 설치하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Mac OS x64 용 Java 설치하기&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;우선 &lt;a href=&quot;https://www.oracle.com/java/technologies/downloads/#java8-mac&quot;&gt;Oracle홈페이지&lt;/a&gt;에서 macOS x64 의 설치파일인 ‘jdk-8u321-macosx-x64.dmg’ 파일을 다운로드 해준다. &lt;em&gt;(‘22.03.20 기준)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/90162819/159200430-e3423314-983b-4882-80b3-0367667d8173.png&quot;&gt; &lt;/div&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;설치가 끝나면 보통 설치 경로는 &lt;code class=&quot;language-text&quot;&gt;/Library/Java/JavaVirtualMachines/&lt;/code&gt; 일 것이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;/Library/Java/JavaVirtualMachines/(설치된jdk이름).jdk/Contents/Home&lt;/code&gt; 이 해당 경로까지 들어가준 후 pwd로 경로를 복사해주자.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;2-java-환경변수-설정&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-java-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95&quot; aria-label=&quot;2 java 환경변수 설정 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. Java 환경변수 설정&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;터미널(terminal) 앱을 실행해주고 ~/.zshrc의 Java Path를 추가해주어야 한다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;&amp;gt;&amp;gt;&amp;gt; sudo nano ~/.zshrc&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;#아래 Path를 입력해주고 저장
+#JDK version PATH
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_321.jdk/Contents/Home
+#Add Environment Variable
+export PATH=$JAVA_HOME/bin:$PATH&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;Path 설정 후 java -version을 입력해서 이상이 없다면 잘 설정이 된것이다.  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;3-konlpy-mecab-설치하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-konlpy-mecab-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0&quot; aria-label=&quot;3 konlpy mecab 설치하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. Konlpy, Mecab 설치하기&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;자 이제 Konlpy를 설치해보자. &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;# install konlpy
+&amp;gt;&amp;gt;&amp;gt; conda install -c conda-forge jpype1
+&amp;gt;&amp;gt;&amp;gt; pip install konlpy
+# install mecab
+&amp;gt;&amp;gt;&amp;gt; bash &amp;lt;(curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;이때 mecab 설치시에 칩셋이 다른 M1의 경우 &lt;strong&gt;‘Cannot install under Rosetta 2 in ARM default prefix (/opt/homebrew)’&lt;/strong&gt; 라는 오류가 뜰 수도 있다.  &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;이럴때는 앞에 `arch -arm64’를 붙여주면 된다. &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;# install mecab
+&amp;gt;&amp;gt;&amp;gt; arch -arm64 bash &amp;lt;(curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;3-konlpy-실행해보기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-konlpy-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EA%B8%B0&quot; aria-label=&quot;3 konlpy 실행해보기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. Konlpy 실행해보기&lt;/h2&gt;
+&lt;p&gt;자 그럼 .py 파일 하나를 만들어 Konlpy가 잘 실행되는지 확인해보자.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; konlpy&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;tag &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; Kkma
+&lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; konlpy&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;utils &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; pprint
+
+kkma &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; Kkma&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+pprint&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;kkma&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;pos&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;u&apos;제발 오류 없어라!&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/90162819/159200443-6fcb71af-b3e2-426e-bf4b-a8cbf03a45db.png&quot;&gt; &lt;/div&gt;
+&lt;br/&gt;
+&lt;p&gt;다행히 오류없이 잘 실행된다!!! 이제 즐겁게 자연어 처리 해보자😎  &lt;/p&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;가상환경 이름은 진행하고 있는 프로젝트 이름으로 아무 의미 없습니다&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Mac M1 Miniforge,Tensorflow 설치하기]]></title><description><![CDATA[🥲 M1.. 네가 뭔데 날 울려.. 이 카테고리는 n시간의 삽질을 반복하지 않기 위한 각성 포스트를 모아놓습니다. 로컬에서 모델을 처음 돌려보면서 버전충돌과 환경구축 에러로 수명이…]]></description><link>https://Dabinnny.github.io/TroubleShooting/miniforge/</link><guid isPermaLink="false">https://Dabinnny.github.io/TroubleShooting/miniforge/</guid><pubDate>Sun, 13 Mar 2022 18:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;🥲-m1-네가-뭔데-날-울려&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%F0%9F%A5%B2-m1-%EB%84%A4%EA%B0%80-%EB%AD%94%EB%8D%B0-%EB%82%A0-%EC%9A%B8%EB%A0%A4&quot; aria-label=&quot;🥲 m1 네가 뭔데 날 울려 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🥲 M1.. 네가 뭔데 날 울려..&lt;/h1&gt;
 &lt;br/&gt;
 &lt;blockquote&gt;
 &lt;p&gt;이 카테고리는 n시간의 삽질을 반복하지 않기 위한 각성 포스트를 모아놓습니다.&lt;/p&gt;
@@ -174,7 +245,91 @@ method를 거쳐갈수록 수치가 낮아져 실제 이미지와 유사해 진�
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;1. &lt;a href=&quot;https://github.com/clovaai/stargan-v2&quot;&gt;https://github.com/clovaai/stargan-v2&lt;/a&gt;&lt;/em&gt;&lt;br&gt;
 &lt;em&gt;2. &lt;a href=&quot;https://truman.tistory.com/246?category=854798&quot;&gt;https://truman.tistory.com/246?category=854798&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[정렬알고리즘 정리(Bubble, Selection, Insertion, Merge, Quick)]]></title><description><![CDATA[…]]></description><link>https://Dabinnny.github.io/Data Structure/정렬/</link><guid isPermaLink="false">https://Dabinnny.github.io/Data Structure/정렬/</guid><pubDate>Tue, 22 Feb 2022 13:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;-정렬의-논리적인-개념은-모든-알고리즘의-기반이-된다&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EC%A0%95%EB%A0%AC%EC%9D%98-%EB%85%BC%EB%A6%AC%EC%A0%81%EC%9D%B8-%EA%B0%9C%EB%85%90%EC%9D%80-%EB%AA%A8%EB%93%A0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EA%B8%B0%EB%B0%98%EC%9D%B4-%EB%90%9C%EB%8B%A4&quot; aria-label=&quot; 정렬의 논리적인 개념은 모든 알고리즘의 기반이 된다 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🔮 정렬의 논리적인 개념은 모든 알고리즘의 기반이 된다.&lt;/h1&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[동적계획법 DP (Dynamic Programming)]]></title><description><![CDATA[🌿 문제의 일부분을 풀고 그 결과를 재활용하자. 동적계획법 이란? 하나의 문제를 중복되는 소문제로 분할하여 문제를 해결하는 방법이다. 피보나치 수열로 예를 들어보자. 피보나치의 점화식은 아래와 같다. 1,1,2,3,5,8… 이렇게 1,2번째는 1,…]]></description><link>https://Dabinnny.github.io/Data Structure/dp/</link><guid isPermaLink="false">https://Dabinnny.github.io/Data Structure/dp/</guid><pubDate>Thu, 24 Feb 2022 13:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;-문제의-일부분을-풀고-그-결과를-재활용하자&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%AC%B8%EC%A0%9C%EC%9D%98-%EC%9D%BC%EB%B6%80%EB%B6%84%EC%9D%84-%ED%92%80%EA%B3%A0-%EA%B7%B8-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%9E%AC%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90&quot; aria-label=&quot; 문제의 일부분을 풀고 그 결과를 재활용하자 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🌿 문제의 일부분을 풀고 그 결과를 재활용하자.&lt;/h1&gt;
+&lt;h2 id=&quot;동적계획법-이란&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95-%EC%9D%B4%EB%9E%80&quot; aria-label=&quot;동적계획법 이란 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;동적계획법 이란?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;background-color:#fff5b1&quot;&gt;하나의 문제를 중복되는 소문제로 분할하여 문제를 해결하는 방법이다.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;피보나치 수열로 예를 들어보자.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;p&gt;피보나치의 점화식은 아래와 같다. 1,1,2,3,5,8… 이렇게 1,2번째는 1,2로 고정이고 3번째부터는 (n-2)+(n-1)로 구해지는&lt;br&gt;
+수열이다.  &lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;https://media.vlpt.us/images/bonjaski0989/post/d2fcb2b2-0a42-40ed-b8f7-cf6372b1a378/image.png&quot; width=&quot;500&quot;&gt; &lt;/div&gt;
+&lt;br/&gt;
+&lt;p&gt;이 피보나치 수열을 트리형태로 분해해서 살펴보면, 위와 같이 F(n-3)의 연산이 반복된다.&lt;br&gt;
+이때 반복되는 F(n-3)의 값을 매번 구하지 않고 따로 저장해놓고 사용함으로써 빠른속도로 최적의 값을 찾을 수 있다.
+&lt;br/&gt;&lt;br&gt;
+다음으로 DP의 2가지 방법에 대해서 알아보자.&lt;/p&gt;
+&lt;h2 id=&quot;memoization-top-down-하향식-방법&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#memoization-top-down-%ED%95%98%ED%96%A5%EC%8B%9D-%EB%B0%A9%EB%B2%95&quot; aria-label=&quot;memoization top down 하향식 방법 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Memoization (Top-Down, 하향식) 방법&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;하위 문제에 대한 정답을 계산했는지 확인해가며 이전에 계산한 값을 메모리에 저장해두고 사용하는 방법이다.&lt;/li&gt;
+&lt;li&gt;이 방법은 재귀방식보다 효율적이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# 재귀&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;fibonacci&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;n&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;연산&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; n &lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;elif&lt;/span&gt; n &lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 
+        &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; fibonacci&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;n&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; fibonacci&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;n&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;fibonacci(5)
+연산
+연산
+연산
+연산
+연산
+연산
+연산
+연산
+연산
+연산
+연산
+연산
+연산
+연산
+연산
+5&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;재귀의 경우 fibonacci(5)의 값을 구하기 위해서는 함수가 &lt;code class=&quot;language-text&quot;&gt;15번&lt;/code&gt;이 호출된다.&lt;br&gt;
+이때 fibonacci(4)의 값을 구하기 위해서는 fibonacci(3)과 fibonacci(2)의 값을 알아야하고 계속해서 연산이 반복된다.&lt;br&gt;
+즉, 연산과정에서 비효율적으로 함수가 많이 호출된다는 것이다. 이 경우 시간초과를 유발할 수 있다.&lt;/p&gt;
+  &lt;br/&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# memoization&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;fibonacci&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;n&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;연산&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  fibo &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;                           &lt;span class=&quot;token comment&quot;&gt;#배열의 값을 저장하는 리스트 생성&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; i &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;n&lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 
+    fibo&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;append&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;fibo&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;i&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; fibo&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;i&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;   &lt;span class=&quot;token comment&quot;&gt;# i번째 수열을 계산하여 배열에 추가&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; fibo&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;n&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;fibonacci(5)
+연산
+5&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Memoization의 경우는 연산이 1번만 실행된다.&lt;br&gt;
+n이 2 이상일때부터 연산의 결과를 fibo 리스트에 저장하기 때문에 연산을 중복해수 수행하지 않는 것이다.&lt;/p&gt;
+ &lt;br/&gt;
+ &lt;br/&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; time
+
+start &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; time&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;time&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; 
+answer &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; fibonacci&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+end &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; time&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;time&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt; start
+&lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;시간:&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; end&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;두가지 방법의 실행 시간은 위 코드로 비교해 볼 수 있다.&lt;/p&gt;
+&lt;h2 id=&quot;tabulation-bottom-up-상향식&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#tabulation-bottom-up-%EC%83%81%ED%96%A5%EC%8B%9D&quot; aria-label=&quot;tabulation bottom up 상향식 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tabulation (Bottom-up, 상향식)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;반복문의 점화식을을 이용해서 하위문제에서부터 문제를 해결하는 방법이다.&lt;/li&gt;
+&lt;li&gt;DP의 전형적인 형태이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;fibonacci&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;n&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+   &lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;연산&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;   
+   fibo &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;                                 &lt;span class=&quot;token comment&quot;&gt;# 0번째, 1번째, 2번째 값을 먼저 설정    &lt;/span&gt;
+   &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; i &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; n &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 
+       fibonacci&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;append&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;fibo&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;i &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; fibo&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;i &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;  &lt;span class=&quot;token comment&quot;&gt;#점화식으로 리스트 채움&lt;/span&gt;
+   &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; fibo&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;n&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;fibonacci(5)
+연산
+5&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[정렬알고리즘 정리(Bubble, Selection, Insertion, Merge, Quick)]]></title><description><![CDATA[…]]></description><link>https://Dabinnny.github.io/Data Structure/정렬/</link><guid isPermaLink="false">https://Dabinnny.github.io/Data Structure/정렬/</guid><pubDate>Tue, 22 Feb 2022 13:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;-정렬의-논리적인-개념은-모든-알고리즘의-기반이-된다&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EC%A0%95%EB%A0%AC%EC%9D%98-%EB%85%BC%EB%A6%AC%EC%A0%81%EC%9D%B8-%EA%B0%9C%EB%85%90%EC%9D%80-%EB%AA%A8%EB%93%A0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EA%B8%B0%EB%B0%98%EC%9D%B4-%EB%90%9C%EB%8B%A4&quot; aria-label=&quot; 정렬의 논리적인 개념은 모든 알고리즘의 기반이 된다 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🔮 정렬의 논리적인 개념은 모든 알고리즘의 기반이 된다.&lt;/h1&gt;
 &lt;p&gt;정렬 왜 중요한가?&lt;br&gt;
 왜 중요한지 묻는다면 정렬이 없는 삶을 떠올려보자.  &lt;/p&gt;
 &lt;p&gt;도서관을 갔는데 책이 뒤죽박죽 꽂혀있어 보고싶은 책을 찾을 수 없다?&lt;br&gt;
@@ -857,9 +1012,10 @@ plt&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;show&lt;span cl
 &lt;h2 id=&quot;1-introduction&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-introduction&quot; aria-label=&quot;1 introduction permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Introduction&lt;/h2&gt;
 &lt;div align=&quot;center&quot;&gt; &lt;img src=&quot;https://user-images.githubusercontent.com/90162819/159157933-c768a743-5510-4311-9294-21bbe185cedf.png&quot; width=&quot;700&quot;&gt;&lt;/div&gt;
 &lt;p&gt;본 논문은 일반적으로 layer가 깊어지면 깊어질수록 높은 성능을 보일것이다 라는 일반적인 견해의 문제점을 해결한다.&lt;br&gt;
-왼쪽그림이 일반적인 CNN모델이고 오른쪽인 Resnet의 결과이다.&lt;br&gt;
-CNN네트워크를 확인해보면 레이어가 깊은 모델이 error가 높은것을 확인할 수 있다. 즉 성능이 더 안좋아진것이다.  &lt;/p&gt;
-&lt;p&gt;결론 먼저 얘기하자면 단순히 layer를 깊게 쌓는것만으로는 성능을 높일 수 없고 ResNet에서는 &lt;code class=&quot;language-text&quot;&gt;Residual Learning(잔여학습)&lt;/code&gt;으로 layer를 깊게 쌓으면서도 성능을 높인다는 것을 입증하고 있다.&lt;br&gt;
+왼쪽그림이 일반적인 CNN모델이고 오른쪽은 ResNet의 결과이다.&lt;br&gt;
+CNN네트워크를 확인해보면 layer가 깊은 모델이 error가 높은것을 확인할 수 있다. 즉 성능이 더 안좋아진것이다.  &lt;/p&gt;
+&lt;p&gt;결론 먼저 얘기하자면 단순히 layer를 깊게 쌓는것만으로는 성능을 높일 수 없고 ResNet에서는 &lt;code class=&quot;language-text&quot;&gt;Residual Learning&lt;/code&gt;으로&lt;br&gt;
+layer를 깊게 쌓으면서도 성능을 높인다는 것을 입증하고 있다.&lt;br&gt;
 &lt;code class=&quot;language-text&quot;&gt;Residual Learning(잔여학습)&lt;/code&gt;에 대해서는 아래에서 자세히 알아보자.  &lt;/p&gt;
 &lt;br/&gt;
 &lt;h2 id=&quot;1-residual-learning&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-residual-learning&quot; aria-label=&quot;1 residual learning permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Residual Learning&lt;/h2&gt;
@@ -887,6 +1043,7 @@ CNN네트워크를 확인해보면 레이어가 깊은 모델이 error가 높은
 기존 네트워크는 input값을 받으면 convolution layer와 activation function을 거쳐 H(x)를 출력하고&lt;br&gt;
 이 H(x)를 최소화 시키는것이 학습의 목표라면, ResNet은 F(x) = H(x) - x를 최소화시키는것으로 재정의 하고&lt;br&gt;
 &lt;code class=&quot;language-text&quot;&gt;Short Connection&lt;/code&gt;에 의해 구현가능하다. &lt;/p&gt;
+&lt;br/&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Short Connection : layer의 입력을 출력값에 그대로 더해주어 추가적인 파라미터와 복잡도가 늘어나지 않는 것&lt;/em&gt;  &lt;/p&gt;
 &lt;/blockquote&gt;
@@ -904,18 +1061,14 @@ F(x) + x 형태의 Short Connection은 Identity mapping을 추가함으로써 �
 여기서 Ws는 차원을 매칭 시켜줄 때에만 사용한다.  &lt;/p&gt;
 &lt;h2 id=&quot;3-network-architectures&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-network-architectures&quot; aria-label=&quot;3 network architectures permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. Network Architectures&lt;/h2&gt;
 &lt;div align=&quot;center&quot;&gt; &lt;img src=&quot;https://t1.daumcdn.net/cfile/tistory/9931D4425CB8A11F1E&quot;&gt;&lt;/div&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Plain Network&lt;/strong&gt; &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;1) Plain Network&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;baseline 모델로 VGGNet에 기반하지만 VGGNet보다 적은 필터와 복잡성을 가진다.  특징으로는,&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;3 x 3의 conv layer를 가지고 각 layer들은 같은 크기의 output feature map과 같은 수의 filter를 갖는다. &lt;/li&gt;
 &lt;li&gt;downsampling을 하기 위해서는 feature map size는 반으로 줄어들고, layer당 filter의 수는 2배로 늘려 time-complexity를 유지한다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br/&gt;
-&lt;ol start=&quot;2&quot;&gt;
-&lt;li&gt;&lt;strong&gt;Residual Network&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;2) Residual Network&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Plain Network에 기반해서 Shortcut connection을 추가하여 구성한다.  &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;이때 dimension이 증가했을때는 zero padding을 적용해서 차원을 키워줘야 하고,&lt;/li&gt;
@@ -941,14 +1094,10 @@ F(x) + x 형태의 Short Connection은 Identity mapping을 추가함으로써 �
 &lt;div align=&quot;center&quot;&gt; &lt;img src=&quot;https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&amp;amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnMtLu%2FbtqS6YIJkSe%2F95gQHZ4BygKZwgEH0e8lEk%2Fimg.png&quot;&gt;&lt;/div&gt; 
 &lt;div align=&quot;center&quot;&gt; &lt;img src=&quot;https://t1.daumcdn.net/cfile/tistory/9933913E5CB8A11F2A&quot; width=&quot;400&quot;&gt;&lt;/div&gt;
 &lt;p&gt;Data는 ImageNet을 사용한다.  &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Plain Network&lt;/strong&gt; &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;1) Plain Network&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;더 깊은 plain model에서 validation error가 나타난다. training / validation error 모두를 비교한 결과, 34 layer plain 모델에서 training error도 높았기 때문에 degradation 문제가 있다고 판단된다.  &lt;/p&gt;
 &lt;br/&gt;
-&lt;ol start=&quot;2&quot;&gt;
-&lt;li&gt;&lt;strong&gt;Residual Network&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;2) Residual Network&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;실험에선 위 표와같은 구조를 사용하였다.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;18-layer ResNet 보다 34-layer ResNet이 2.8% 성능이 높다.&lt;br&gt;
