@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DABI_devlog]]></title><description><![CDATA[DABI_devlog]]></description><link>https://Dabinnny.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 Apr 2022 12:40:12 GMT</lastBuildDate><item><title><![CDATA[다익스트라(dijkstra) 알고리즘 - 최단 경로 구하기]]></title><description><![CDATA[🔍 단일 출발 최단 경로 구하기 가중치 그래프 (Weighted Graph) 에서 간선 (Edge…]]></description><link>https://Dabinnny.github.io/DataStructure/최단거리/</link><guid isPermaLink="false">https://Dabinnny.github.io/DataStructure/최단거리/</guid><pubDate>Wed, 30 Mar 2022 13:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;-단일-출발-최단-경로-구하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%8B%A8%EC%9D%BC-%EC%B6%9C%EB%B0%9C-%EC%B5%9C%EB%8B%A8-%EA%B2%BD%EB%A1%9C-%EA%B5%AC%ED%95%98%EA%B8%B0&quot; aria-label=&quot; 단일 출발 최단 경로 구하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🔍 단일 출발 최단 경로 구하기&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DABI_devlog]]></title><description><![CDATA[DABI_devlog]]></description><link>https://Dabinnny.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 Apr 2022 04:32:53 GMT</lastBuildDate><item><title><![CDATA[Mac M1 pandas cpython-38-darwin.so 에러 ]]></title><description><![CDATA[🥲 M1.. 네가 뭔데 날 울려.. 이 카테고리는 n시간의 삽질을 반복하지 않기 위한 각성 포스트를 모아놓습니다. colab에서 로컬로 작업환경을 바꿔가는 중인데, miniforge로 바꾼 후 정말 생각지도 못한 Error…]]></description><link>https://Dabinnny.github.io/ETC/pandas/</link><guid isPermaLink="false">https://Dabinnny.github.io/ETC/pandas/</guid><pubDate>Sun, 03 Apr 2022 18:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;🥲-m1-네가-뭔데-날-울려&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%F0%9F%A5%B2-m1-%EB%84%A4%EA%B0%80-%EB%AD%94%EB%8D%B0-%EB%82%A0-%EC%9A%B8%EB%A0%A4&quot; aria-label=&quot;🥲 m1 네가 뭔데 날 울려 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🥲 M1.. 네가 뭔데 날 울려..&lt;/h1&gt;
+&lt;br/&gt;
+&lt;blockquote&gt;
+&lt;p&gt;이 카테고리는 n시간의 삽질을 반복하지 않기 위한 각성 포스트를 모아놓습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;colab에서 로컬로 작업환경을 바꿔가는 중인데, miniforge로 바꾼 후 정말 생각지도 못한 Error들을 많이 만난다.&lt;br&gt;
+Pandas importerror라니.. 이런 error는 뭔가 그냥 install만 하면 안될거라는 확신이 강하게 들고 대부분 맞다.  &lt;/p&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/90162819/161677736-297c2f56-6477-4a98-bd92-999ec883017e.png&quot; width=&quot;500&quot;&gt; &lt;/div&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/90162819/161677743-633e3f03-5c9f-4a92-9626-8110116d7270.png&quot;&gt; &lt;/div&gt;  
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;x86_64 버전이어서 에러가 난 것 같다.&lt;br&gt;
+Homebrew를 설치할때 Intel용이 아니면 M1에서는 지원이 안된다고 한다.(사실 M1 알못이라 이유도 확실하게 인지를 못했다..)  &lt;/p&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;해결 방법은 cython을 사용해 numpy,pandas를 compile해서 사용하면 된다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ pip install cython
+
+$ git clone https://github.com/numpy/numpy.git
+$ cd numpy
+$ python3 setup.py install
+
+$ git clone https://github.com/pandas-dev/pandas.git
+$ cd pandas
+$ python3 setup.py install&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;blockquote&gt;
+&lt;p&gt;참고 : &lt;a href=&quot;https://mooa.net/ap/2878&quot;&gt;https://mooa.net/ap/2878&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[다익스트라(dijkstra) 알고리즘 - 최단 경로 구하기]]></title><description><![CDATA[🔍 단일 출발 최단 경로 구하기 가중치 그래프 (Weighted Graph) 에서 간선 (Edge…]]></description><link>https://Dabinnny.github.io/DataStructure/최단거리/</link><guid isPermaLink="false">https://Dabinnny.github.io/DataStructure/최단거리/</guid><pubDate>Wed, 30 Mar 2022 13:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;-단일-출발-최단-경로-구하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-%EB%8B%A8%EC%9D%BC-%EC%B6%9C%EB%B0%9C-%EC%B5%9C%EB%8B%A8-%EA%B2%BD%EB%A1%9C-%EA%B5%AC%ED%95%98%EA%B8%B0&quot; aria-label=&quot; 단일 출발 최단 경로 구하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🔍 단일 출발 최단 경로 구하기&lt;/h1&gt;
 &lt;br/&gt;
 &lt;p&gt;가중치 그래프 (Weighted Graph) 에서 간선 (Edge)의 가중치 합이 최소가 되도록 하는 경로를 찾는 것이 목적이다.  &lt;/p&gt;
 &lt;p&gt;첫 정점부터 각 노드간의 거리를 저장하는 배열을 만든 후, 첫 정점의 인접 노드 간의 거리부터 먼저 계산하면서&lt;br&gt;
